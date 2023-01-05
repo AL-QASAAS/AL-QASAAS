@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AL-QASAAS
+- 👋 Hi, I’m @AL-QASAAS ( fa20-bcs-057@cuiatk.edu.pk )
 - 👀 I’m interested in Developing Games,.,
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on Anything that i am capable of.
